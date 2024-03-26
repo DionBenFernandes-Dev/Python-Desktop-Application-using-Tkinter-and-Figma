@@ -87,4 +87,4 @@ Here's a step-by-step guide on how to use the code from GitHub, assuming you've 
 
 By following these steps, you can effectively utilize the Budget Tracker application from GitHub, collaborate on design using Figma, and manage your project within a virtual environment for a clean and isolated development environment.
 
-![Project Image]()
+![Project Image](https://github.com/DionBenFernandes-Dev/Python-Desktop-Application-using-Tkinter-and-Figma/blob/main/Screenshot%202024-03-26%20120947.png)
